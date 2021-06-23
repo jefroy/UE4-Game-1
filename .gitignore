@@ -75,5 +75,6 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # content - some will be added on compilation
-Content/Assets/*
 Content/StarterContent/*
+Content/Sounds/*
+Content/UI/*
